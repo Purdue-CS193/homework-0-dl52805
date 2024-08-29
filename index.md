@@ -1,3 +1,11 @@
+# Daniel Luo's First CS193 Homework
+
+- The instructors :)
+- The fun and humorous images in the lecture slides
+- The slide design
+- The demos
+- The jokes
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
